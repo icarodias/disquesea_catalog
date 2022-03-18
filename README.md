@@ -24,7 +24,7 @@ To generate the catalog, you need to open the terminal in the past of project an
 dart /lib/main.dart
 ~~~
 
-Please, open the catalog.pdf to see the result. 
+### Please, open the catalog.pdf to see the result. 
 
 In the future, I would like to make an app where the user can edit and download this catalog.
 
