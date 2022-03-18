@@ -1,6 +1,6 @@
 ## DisqueSea Catalog
 
-This project aims to generate a catalog with some products from the DisqueSea shop, which is a shop of food, and to send this catalog to clients of this shop.
+This project aims to generate a catalog with some products from the DisqueSea shop, which is a shop of food, and send this catalog to clients of this shop.
 
 The catalog is a PDF file that contains a list of products spread by categories: fish - shrimp - seafood - meat - birds - snack - others.
 
