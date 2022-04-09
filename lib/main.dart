@@ -60,13 +60,13 @@ pw.Widget _buildHeader(pw.Context context) {
 
 pw.Widget _buildFooter(pw.Context context) {
   final whatsappIcon = pw.MemoryImage(
-    File('assets/whatsapp.png').readAsBytesSync(),
+    File("assets/whatsapp.png").readAsBytesSync(),
   );
   final mastercardIcon = pw.MemoryImage(
-    File('assets/mastercard.png').readAsBytesSync(),
+    File("assets/mastercard.png").readAsBytesSync(),
   );
   final visaIcon = pw.MemoryImage(
-    File('assets/visa.png').readAsBytesSync(),
+    File("assets/visa.png").readAsBytesSync(),
   );
   final hipercardIcon = pw.MemoryImage(
     File('assets/hipercard.png').readAsBytesSync(),
@@ -102,7 +102,7 @@ pw.Widget _buildFooter(pw.Context context) {
                       height: 18, width: 18, child: pw.Image(whatsappIcon)),
                   pw.SizedBox(width: 3),
                   pw.Text(
-                    '(XX) XXXXX.XXX', //'(85) 99727.7600',
+                    '(85) 99727.7600', //'(XX) XXXXX.XXX',
                     style: const pw.TextStyle(
                       fontSize: 16,
                       color: PdfColors.white,
@@ -110,7 +110,7 @@ pw.Widget _buildFooter(pw.Context context) {
                   ),
                   pw.SizedBox(width: 16),
                   pw.Text(
-                    '(XX) XXXX.XXXX', //'(85) 3234.2426',
+                    '(85) 3234.2426', //'(XX) XXXX.XXXX',
                     style: const pw.TextStyle(
                       fontSize: 16,
                       color: PdfColors.white,
