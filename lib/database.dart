@@ -119,7 +119,7 @@ class Database {
       {"name": "Queijo Coalho ", "price": 38.00, "amount": "Kg"},
       {"name": "Polpas de Frutas", "price": 15.00, "amount": "Kg"},
       {"name": "Goma de Tapioca", "price": 7.00, "amount": "Kg"},
-      {"name": "Castanha de Caju ", "price": 70.00, "amount": "Kg"},
+      {"name": "Castanha de Caju ", "price": 75.00, "amount": "Kg"},
       {"name": "Doces Diversos", "price": 18.00, "amount": "uni."}
     ]
   };
