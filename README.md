@@ -21,7 +21,7 @@ This project contains two files:
 To generate the catalog, you need to open the terminal in the directory of the project and run this line:
 
 ~~~bash
-dart /lib/main.dart
+dart run /lib/main.dart
 ~~~
 
 ### Please open the catalog.pdf to see the result.
