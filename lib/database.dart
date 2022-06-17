@@ -78,19 +78,19 @@ class Database {
     "meat": [
       {"name": "Filé Suíno", "price": 31.00, "amount": "Kg"},
       {"name": "Costelinha Suína", "price": 28.90, "amount": "kg"},
-      {"name": "Picadinho de Cordeiro", "price": 35.90, "amount": "Kg"},
-      {"name": "Buchada de Cordeiro", "price": 42.00, "amount": "Kg"},
-      {"name": "Paleta de Cordeiro", "price": 49.90, "amount": "Kg"},
-      {"name": "Costela de Cordeiro", "price": 39.90, "amount": "Kg"},
-      {"name": "Pernil de Cordeiro c/osso", "price": 52.90, "amount": "Kg"},
-      {"name": "Pernil de Cordeiro s/osso", "price": 69.90, "amount": "Kg"},
+      {"name": "Picadinho de Cordeiro", "price": 39.90, "amount": "Kg"},
+      {"name": "Buchada de Cordeiro", "price": 47.00, "amount": "Kg"},
+      {"name": "Paleta de Cordeiro", "price": 55.90, "amount": "Kg"},
+      {"name": "Costela de Cordeiro", "price": 43.90, "amount": "Kg"},
+      {"name": "Pernil de Cordeiro c/osso", "price": 58.90, "amount": "Kg"},
+      {"name": "Pernil de Cordeiro s/osso", "price": 76.90, "amount": "Kg"},
       {"name": "Carré de Cordeiro", "price": 99.00, "amount": "Kg"},
       {"name": "Maminha Grill", "price": 49.90, "amount": "Kg"},
       {"name": "Picanha Importada", "price": 98.90, "amount": "Kg"},
       {"name": "Linguiça Toscana", "price": 21.90, "amount": "600 g"},
       {"name": "Linguiça de Frango", "price": 18.90, "amount": "600 g"},
       {"name": "Linguiça tipo Cuiabana", "price": 25.90, "amount": "500 g"},
-      {"name": "Linguiça de Cabrito picante", "price": 46.90, "amount": "kg"}
+      {"name": "Linguiça de Cabrito picante", "price": 49.90, "amount": "kg"}
     ],
     "birds": [
       {"name": "Frango Caipira", "price": 21.90, "amount": "Kg"},
