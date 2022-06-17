@@ -88,7 +88,7 @@ class Database {
       {"name": "Maminha Grill", "price": 49.90, "amount": "Kg"},
       {"name": "Picanha Importada", "price": 98.90, "amount": "Kg"},
       {"name": "Linguiça Toscana", "price": 21.90, "amount": "600 g"},
-      {"name": "Linguiça de Frango", "price": 18.90, "amount": "600 g"},
+      {"name": "Linguiça de Frango", "price": 21.90, "amount": "600 g"},
       {"name": "Linguiça tipo Cuiabana", "price": 25.90, "amount": "500 g"},
       {"name": "Linguiça de Cabrito picante", "price": 49.90, "amount": "kg"}
     ],
@@ -117,8 +117,8 @@ class Database {
     "others": [
       {"name": "Manteiga da Terra", "price": 20.00, "amount": "500ml"},
       {"name": "Queijo Coalho ", "price": 38.00, "amount": "Kg"},
-      {"name": "Polpas de Frutas", "price": 15.00, "amount": "Kg"},
-      {"name": "Goma de Tapioca", "price": 7.00, "amount": "Kg"},
+      {"name": "Polpas de Frutas", "price": 17.00, "amount": "Kg"},
+      {"name": "Goma de Tapioca", "price": 8.00, "amount": "Kg"},
       {"name": "Castanha de Caju ", "price": 75.00, "amount": "Kg"},
       {"name": "Doces Diversos", "price": 20.00, "amount": "uni."}
     ]
