@@ -41,14 +41,14 @@ class Database {
       {"name": "Filé de Linguado", "price": 42.00, "amount": "Kg"},
       {"name": "Filé de Arabaiana", "price": 38.00, "amount": "Kg"},
       {"name": "Filé de Pescada Amarela", "price": 48.90, "amount": "Kg"},
-      {"name": "Filé de Cavala", "price": 44.00, "amount": "Kg"},
+      {"name": "Filé de Cavala", "price": 46.00, "amount": "Kg"},
       {"name": "Filé de Garoupa", "price": 48.90, "amount": "Kg"},
       {"name": "Filé de Beijupirá", "price": 41.00, "amount": "Kg"},
       {"name": "Filé de Sirigado", "price": 63.00, "amount": "Kg"},
       {"name": "Filé de Salmão", "price": 95.00, "amount": "Kg"},
       {"name": "Filé de Pargo M s/pele", "price": 45.90, "amount": "Kg"},
       {"name": "Filé de Pargo P s/pele", "price": 41.00, "amount": "Kg"},
-      {"name": "Filé de Tilápia s/pele", "price": 42.00, "amount": "Kg"},
+      {"name": "Filé de Tilápia s/pele", "price": 44.00, "amount": "Kg"},
       {"name": "Filé de Atum", "price": 32.00, "amount": "Kg"},
       {"name": "Filé de Bacalhau dessalgado", "price": 69.00, "amount": "Kg"},
       {"name": "Sardinha limpa", "price": 15.00, "amount": "Kg"},
@@ -73,7 +73,7 @@ class Database {
       {"name": "Mexilhão meia conha", "price": 48.00, "amount": "Kg"},
       {"name": "Lula em anéis", "price": 58.00, "amount": "Kg"},
       {"name": "Paella", "price": 59.00, "amount": "Kg"},
-      {"name": "Tentáculos de Polvo ", "price": 59.00, "amount": "Kg"}
+      {"name": "Tentáculos de Polvo ", "price": 51.00, "amount": "Kg"}
     ],
     "meat": [
       {"name": "Filé Suíno", "price": 31.00, "amount": "Kg"},
@@ -95,7 +95,7 @@ class Database {
     "birds": [
       {"name": "Frango Caipira", "price": 21.90, "amount": "Kg"},
       {"name": "Sobrecoxa de Frango", "price": 17.90, "amount": "Kg"},
-      {"name": "Filé de peito de Frango", "price": 19.90, "amount": "Kg"},
+      {"name": "Filé de peito de Frango", "price": 22.90, "amount": "Kg"},
       {"name": "Capote Caipira", "price": 36.90, "amount": "Kg"},
       {"name": "Coxinha da Asa", "price": 18.90, "amount": "Kg"},
       {"name": "Coxa desossada", "price": 18.90, "amount": "Kg"}
