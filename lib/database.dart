@@ -53,8 +53,8 @@ class Database {
       {"name": "Filé de Bacalhau dessalgado", "price": 69.00, "amount": "Kg"},
       {"name": "Sardinha limpa", "price": 15.00, "amount": "Kg"},
       {"name": "Cavala em postas", "price": 37.90, "amount": "Kg"},
-      {"name": "Tilápia em postas", "price": 22.90, "amount": "Kg"},
-      {"name": "Tilápia eviscerada", "price": 19.90, "amount": "Kg"},
+      {"name": "Tilápia em postas", "price": 24.90, "amount": "Kg"},
+      {"name": "Tilápia eviscerada", "price": 21.90, "amount": "Kg"},
       {"name": "Arraia Desfiada", "price": 30.00, "amount": "Kg"}
     ],
     "shrimp": [
@@ -115,12 +115,12 @@ class Database {
       {"name": "Bolinho de Bacalhau", "price": 28.00, "amount": "12 uni."}
     ],
     "others": [
-      {"name": "Manteiga da Terra", "price": 18.00, "amount": "500ml"},
+      {"name": "Manteiga da Terra", "price": 20.00, "amount": "500ml"},
       {"name": "Queijo Coalho ", "price": 38.00, "amount": "Kg"},
       {"name": "Polpas de Frutas", "price": 15.00, "amount": "Kg"},
       {"name": "Goma de Tapioca", "price": 7.00, "amount": "Kg"},
       {"name": "Castanha de Caju ", "price": 75.00, "amount": "Kg"},
-      {"name": "Doces Diversos", "price": 18.00, "amount": "uni."}
+      {"name": "Doces Diversos", "price": 20.00, "amount": "uni."}
     ]
   };
 }
