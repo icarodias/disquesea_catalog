@@ -36,44 +36,45 @@ class Database {
 
   Map<String, List<Map<String, dynamic>>> items = {
     "fish": [
-      {"name": "Filé de Dourado", "price": 34.00, "amount": "Kg"},
-      {"name": "Filé de Abadejo", "price": 38.00, "amount": "Kg"},
-      {"name": "Filé de Linguado", "price": 42.00, "amount": "Kg"},
+      {"name": "Filé de Dourado", "price": 36.00, "amount": "Kg"},
+      {"name": "Filé de Abadejo", "price": 39.00, "amount": "Kg"},
+      {"name": "Filé de Linguado", "price": 44.00, "amount": "Kg"},
       {"name": "Filé de Arabaiana", "price": 38.00, "amount": "Kg"},
-      {"name": "Filé de Pescada Amarela", "price": 48.90, "amount": "Kg"},
+      {"name": "Filé de Pescada Amarela", "price": 52.90, "amount": "Kg"},
       {"name": "Filé de Cavala", "price": 46.00, "amount": "Kg"},
-      {"name": "Filé de Garoupa", "price": 48.90, "amount": "Kg"},
-      {"name": "Filé de Beijupirá", "price": 41.00, "amount": "Kg"},
-      {"name": "Filé de Sirigado", "price": 63.00, "amount": "Kg"},
-      {"name": "Filé de Salmão", "price": 95.00, "amount": "Kg"},
-      {"name": "Filé de Pargo M s/pele", "price": 45.90, "amount": "Kg"},
-      {"name": "Filé de Pargo P s/pele", "price": 41.00, "amount": "Kg"},
-      {"name": "Filé de Tilápia s/pele", "price": 44.00, "amount": "Kg"},
-      {"name": "Filé de Atum", "price": 32.00, "amount": "Kg"},
-      {"name": "Filé de Bacalhau dessalgado", "price": 69.00, "amount": "Kg"},
-      {"name": "Sardinha limpa", "price": 15.00, "amount": "Kg"},
+      {"name": "Filé de Garoupa", "price": 52.90, "amount": "Kg"},
+      {"name": "Filé de Beijupirá", "price": 49.90, "amount": "Kg"},
+      {"name": "Filé de Sirigado", "price": 69.00, "amount": "Kg"},
+      {"name": "Filé de Salmão", "price": 105.00, "amount": "Kg"},
+      {"name": "Filé de Pargo M s/pele", "price": 49.90, "amount": "Kg"},
+      {"name": "Filé de Pargo P s/pele", "price": 45.90, "amount": "Kg"},
+      {"name": "Filé de Tilápia s/pele", "price": 48.00, "amount": "Kg"},
+      {"name": "Filé de Atum", "price": 34.00, "amount": "Kg"},
+      {"name": "Filé de Bacalhau dessalgado", "price": 79.90, "amount": "Kg"},
+      {"name": "Sardinha limpa", "price": 17.00, "amount": "Kg"},
       {"name": "Cavala em postas", "price": 37.90, "amount": "Kg"},
       {"name": "Tilápia em postas", "price": 24.90, "amount": "Kg"},
       {"name": "Tilápia eviscerada", "price": 21.90, "amount": "Kg"},
-      {"name": "Arraia Desfiada", "price": 30.00, "amount": "Kg"}
+      {"name": "Arraia Desfiada", "price": 33.00, "amount": "Kg"}
     ],
     "shrimp": [
-      {"name": "Filé de Camarão P ", "price": 48.00, "amount": "Kg"},
-      {"name": "Filé de Camarão M", "price": 58.00, "amount": "Kg"},
-      {"name": "Filé de Camarão G", "price": 85.00, "amount": "Kg"},
-      {"name": "Filé de Camarão GG", "price": 99.00, "amount": "Kg"},
-      {"name": "Camarão M s/cabeça", "price": 55.00, "amount": "Kg"},
-      {"name": "Camarão M inteiro", "price": 38.00, "amount": "Kg"},
-      {"name": "Camarão Sossego ", "price": 35.00, "amount": "Kg"}
+      {"name": "Filé de Camarão P ", "price": 52.00, "amount": "Kg"},
+      {"name": "Filé de Camarão M", "price": 62.00, "amount": "Kg"},
+      {"name": "Filé de Camarão G", "price": 95.00, "amount": "Kg"},
+      {"name": "Filé de Camarão GG", "price": 105.00, "amount": "Kg"},
+      {"name": "Camarão M s/cabeça", "price": 58.00, "amount": "Kg"},
+      {"name": "Camarão G s/cabeça", "price": 85.00, "amount": "Kg"},
+      {"name": "Camarão M inteiro", "price": 42.00, "amount": "Kg"},
+      {"name": "Camarão Sossego ", "price": 39.00, "amount": "Kg"}
     ],
     "seafood": [
-      {"name": "Carne de Caranguejo", "price": 59.00, "amount": "Kg"},
-      {"name": "Sururu", "price": 30.00, "amount": "Kg"},
+      {"name": "Carne de Caranguejo", "price": 69.00, "amount": "Kg"},
+      {"name": "Sururu", "price": 33.00, "amount": "Kg"},
       {"name": "Mexilhão desconchado", "price": 58.00, "amount": "Kg"},
       {"name": "Mexilhão meia conha", "price": 48.00, "amount": "Kg"},
       {"name": "Lula em anéis", "price": 58.00, "amount": "Kg"},
       {"name": "Paella", "price": 59.00, "amount": "Kg"},
-      {"name": "Tentáculos de Polvo ", "price": 51.00, "amount": "Kg"}
+      {"name": "Tentáculos de Polvo ", "price": 55.00, "amount": "Kg"}
     ],
     "meat": [
       {"name": "Filé Suíno", "price": 31.00, "amount": "Kg"},
@@ -95,13 +96,15 @@ class Database {
     "birds": [
       {"name": "Frango Caipira", "price": 21.90, "amount": "Kg"},
       {"name": "Sobrecoxa de Frango", "price": 17.90, "amount": "Kg"},
-      {"name": "Filé de peito de Frango", "price": 22.90, "amount": "Kg"},
+      {"name": "Filé de peito de Frango", "price": 24.90, "amount": "Kg"},
       {"name": "Capote Caipira", "price": 36.90, "amount": "Kg"},
       {"name": "Coxinha da Asa", "price": 18.90, "amount": "Kg"},
       {"name": "Coxa desossada", "price": 18.90, "amount": "Kg"}
     ],
     "snack": [
       {"name": "Miniquiches", "price": 16.00, "amount": "12 uni."},
+      {"name": "Quiches M sabores diversos", "price": 39.00, "amount": "500g"},
+      {"name": "Torta de Frango", "price": 30.00, "amount": "500g"},
       {"name": "Pão de Queijo", "price": 15.00, "amount": "500g"},
       {
         "name": "Patinha de Caranguejo empanada",
@@ -116,7 +119,7 @@ class Database {
     ],
     "others": [
       {"name": "Manteiga da Terra", "price": 20.00, "amount": "500ml"},
-      {"name": "Queijo Coalho ", "price": 38.00, "amount": "Kg"},
+      {"name": "Queijo Coalho ", "price": 42.00, "amount": "Kg"},
       {"name": "Polpas de Frutas", "price": 17.00, "amount": "Kg"},
       {"name": "Goma de Tapioca", "price": 8.00, "amount": "Kg"},
       {"name": "Castanha de Caju ", "price": 75.00, "amount": "Kg"},
