@@ -55,6 +55,7 @@ class Database {
       {"name": "Cavala em postas", "price": 37.90, "amount": "Kg"},
       {"name": "Tilápia em postas", "price": 24.90, "amount": "Kg"},
       {"name": "Tilápia eviscerada", "price": 21.90, "amount": "Kg"},
+      {"name": "Tilápia inteira desossada", "price": 29.90, "amount": "Kg"},
       {"name": "Arraia Desfiada", "price": 33.00, "amount": "Kg"}
     ],
     "shrimp": [
@@ -74,24 +75,24 @@ class Database {
       {"name": "Mexilhão meia conha", "price": 48.00, "amount": "Kg"},
       {"name": "Lula em anéis", "price": 58.00, "amount": "Kg"},
       {"name": "Paella", "price": 59.00, "amount": "Kg"},
-      {"name": "Tentáculos de Polvo ", "price": 55.00, "amount": "Kg"}
+      {"name": "Tentáculos de Polvo ", "price": 49.00, "amount": "Kg"}
     ],
     "meat": [
       {"name": "Filé Suíno", "price": 31.00, "amount": "Kg"},
-      {"name": "Costelinha Suína", "price": 28.90, "amount": "kg"},
+      {"name": "Costelinha Suína", "price": 29.90, "amount": "kg"},
       {"name": "Picadinho de Cordeiro", "price": 39.90, "amount": "Kg"},
-      {"name": "Buchada de Cordeiro", "price": 47.00, "amount": "Kg"},
-      {"name": "Paleta de Cordeiro", "price": 55.90, "amount": "Kg"},
+      {"name": "Buchada de Cordeiro", "price": 49.90, "amount": "Kg"},
+      {"name": "Paleta de Cordeiro serrada", "price": 59.90, "amount": "Kg"},
       {"name": "Costela de Cordeiro", "price": 43.90, "amount": "Kg"},
-      {"name": "Pernil de Cordeiro c/osso", "price": 58.90, "amount": "Kg"},
-      {"name": "Pernil de Cordeiro s/osso", "price": 76.90, "amount": "Kg"},
-      {"name": "Carré de Cordeiro", "price": 99.00, "amount": "Kg"},
+      {"name": "Pernil de Cordeiro c/osso", "price": 62.90, "amount": "Kg"},
+      {"name": "Pernil de Cordeiro s/osso", "price": 82.90, "amount": "Kg"},
+      {"name": "Carré de Cordeiro", "price": 110.00, "amount": "Kg"},
       {"name": "Maminha Grill", "price": 49.90, "amount": "Kg"},
       {"name": "Picanha Importada", "price": 98.90, "amount": "Kg"},
       {"name": "Linguiça Toscana", "price": 21.90, "amount": "600 g"},
       {"name": "Linguiça de Frango", "price": 21.90, "amount": "600 g"},
       {"name": "Linguiça tipo Cuiabana", "price": 25.90, "amount": "500 g"},
-      {"name": "Linguiça de Cabrito picante", "price": 49.90, "amount": "kg"}
+      {"name": "Linguiça de Cabrito picante", "price": 55.00, "amount": "kg"}
     ],
     "birds": [
       {"name": "Frango Caipira", "price": 21.90, "amount": "Kg"},
@@ -121,7 +122,7 @@ class Database {
       {"name": "Manteiga da Terra", "price": 20.00, "amount": "500ml"},
       {"name": "Queijo Coalho ", "price": 42.00, "amount": "Kg"},
       {"name": "Polpas de Frutas", "price": 17.00, "amount": "Kg"},
-      {"name": "Goma de Tapioca", "price": 8.00, "amount": "Kg"},
+      {"name": "Goma de Tapioca", "price": 9.00, "amount": "Kg"},
       {"name": "Castanha de Caju ", "price": 75.00, "amount": "Kg"},
       {"name": "Doces Diversos", "price": 20.00, "amount": "uni."}
     ]

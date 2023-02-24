@@ -60,19 +60,19 @@ pw.Widget _buildHeader(pw.Context context) {
 
 pw.Widget _buildFooter(pw.Context context) {
   final whatsappIcon = pw.MemoryImage(
-    File("assets/whatsapp.png").readAsBytesSync(),
+    File("../assets/whatsapp.png").readAsBytesSync(),
   );
   final mastercardIcon = pw.MemoryImage(
-    File("assets/mastercard.png").readAsBytesSync(),
+    File("../assets/mastercard.png").readAsBytesSync(),
   );
   final visaIcon = pw.MemoryImage(
-    File("assets/visa.png").readAsBytesSync(),
+    File("../assets/visa.png").readAsBytesSync(),
   );
   final hipercardIcon = pw.MemoryImage(
-    File('assets/hipercard.png').readAsBytesSync(),
+    File('../assets/hipercard.png').readAsBytesSync(),
   );
   final amexIcon = pw.MemoryImage(
-    File('assets/amex.png').readAsBytesSync(),
+    File('../assets/amex.png').readAsBytesSync(),
   );
   return pw.Container(
     color: backgroundColor,
