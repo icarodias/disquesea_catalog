@@ -18,7 +18,7 @@ void main() async {
     ),
   ); // Page
 
-  final file = File("catalog.pdf");
+  final file = File("../catalog.pdf");
   await file.writeAsBytes(await pdf.save());
 }
 
