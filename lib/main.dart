@@ -228,7 +228,7 @@ pw.Widget _table(pw.Context context, int itemType) {
           mainAxisAlignment: pw.MainAxisAlignment.end,
           children: [
             pw.Text(
-              'PREÇOS SUJEITOS A   ALTERAÇÕES.',
+              'PREÇOS SUJEITOS A ALTERAÇÕES.',
               style: const pw.TextStyle(fontSize: 10),
             ),
           ],
