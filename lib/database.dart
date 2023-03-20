@@ -79,7 +79,7 @@ class Database {
     ],
     "meat": [
       {"name": "Filé Suíno", "price": 31.00, "amount": "Kg"},
-      {"name": "Costelinha Suína", "price": 29.90, "amount": "kg"},
+      {"name": "Costelinha Suína", "price": 33.00, "amount": "kg"},
       {"name": "Picadinho de Cordeiro", "price": 39.90, "amount": "Kg"},
       {"name": "Buchada de Cordeiro", "price": 49.90, "amount": "Kg"},
       {"name": "Paleta de Cordeiro serrada", "price": 59.90, "amount": "Kg"},
@@ -97,7 +97,7 @@ class Database {
     "birds": [
       {"name": "Frango Caipira", "price": 21.90, "amount": "Kg"},
       {"name": "Sobrecoxa de Frango", "price": 17.90, "amount": "Kg"},
-      {"name": "Filé de peito de Frango", "price": 24.90, "amount": "Kg"},
+      {"name": "Filé de peito de Frango", "price": 21.90, "amount": "Kg"},
       {"name": "Capote Caipira", "price": 36.90, "amount": "Kg"},
       {"name": "Coxinha da Asa", "price": 18.90, "amount": "Kg"},
       {"name": "Coxa desossada", "price": 18.90, "amount": "Kg"}
@@ -116,7 +116,7 @@ class Database {
       {"name": "Camarão empanado", "price": 16.00, "amount": "12 uni."},
       {"name": "Bolinha de Peixe", "price": 10.00, "amount": "12 uni."},
       {"name": "Bolinha de Queijo", "price": 10.00, "amount": "12 uni."},
-      {"name": "Bolinho de Bacalhau", "price": 28.00, "amount": "12 uni."}
+      {"name": "Bolinho de Bacalhau", "price": 23.00, "amount": "12 uni."}
     ],
     "others": [
       {"name": "Manteiga da Terra", "price": 20.00, "amount": "500ml"},
