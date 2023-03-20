@@ -55,7 +55,7 @@ class Database {
       {"name": "Cavala em postas", "price": 37.90, "amount": "Kg"},
       {"name": "Tilápia em postas", "price": 29.90, "amount": "Kg"},
       {"name": "Tilápia eviscerada", "price": 21.90, "amount": "Kg"},
-      {"name": "Tilápia inteira desossada", "price": 29.90, "amount": "Kg"},
+      {"name": "Tilápia inteira desossada", "price": 35.00, "amount": "Kg"},
       {"name": "Arraia Desfiada", "price": 33.00, "amount": "Kg"}
     ],
     "shrimp": [
